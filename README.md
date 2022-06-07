@@ -1,6 +1,9 @@
-### What Provide I Do?
+### Waht Provide I Do?
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mastercodingbear&column=7&theme=onedark" />
+</div>
 <p align="center">
   <img align="center" src="https://github.com/smartfox1203/smartfox1203/blob/main/landscape.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
