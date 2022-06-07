@@ -29,8 +29,6 @@
 
 
 ### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
-
-<img align="right" alt="GIF" src="https://github.com/Eujinstepan/Eujinstepan/blob/Temle/code.gif?raw=true" width="400" />
  
 - **DApps & Online Betting Website**
 
