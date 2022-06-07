@@ -6,8 +6,8 @@
 ##
 
 ### Waht Provide I Do?
-- **[ Perfect result | Best Quality |  On-time Delivery ]**
-- [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
+- **[ Clean & Efficent code | Perfect result | Best Quality |  On-time Delivery ]**
+- [ App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartfox1203&column=7&theme=onedark" />
