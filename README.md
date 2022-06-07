@@ -44,7 +44,7 @@
 
 - **AR & VR Web and Mobile application**
 
--Video Conference Web & Mobile application
+- Video Conference Web & Mobile application
 ##
 
 <h2 align="center">⚡ Stats ⚡</h2>
