@@ -27,7 +27,7 @@
   team members.
   </p>
 
-
+<br />
 ### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
  
 - **DApps & Online Betting Website**
