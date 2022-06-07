@@ -27,10 +27,6 @@
   team members.
   </p>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=smartfox1203.smartfox1203" />
-<img align="right" src="https://img.shields.io/github/followers/smartfox1203?label=Follow&style=social" />
-<h1 align="center"></h1>
-
 
 ### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
