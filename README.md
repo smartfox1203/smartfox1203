@@ -1,10 +1,10 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 <p align="center">
-  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Who%20am%20I;Creative,%20Passionate%20Efficient;Senior%20Frontend%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Frontend%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
-<h2> Waht Provide I Do? <h2>  
-  <p> - [ Perfect result | Best Quality |  On-time Delivery ] </p>
-  <p> - [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ] </p>
+<h2> Waht Provide I Do? </h2>  
+  - **[ Perfect result | Best Quality |  On-time Delivery ]**
+  - **[ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartfox1203&column=7&theme=onedark" />
