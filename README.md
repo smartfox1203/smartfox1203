@@ -4,7 +4,7 @@
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Frontend%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-### What Do I Provide ?
+### <B> What Do I Provide </B>
 - **[ Clean & Efficent code | Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
