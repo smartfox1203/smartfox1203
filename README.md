@@ -4,7 +4,7 @@
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Frontend%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-### Waht Provide I Do?
+### What Do I Provide ?
 - **[ Clean & Efficent code | Perfect result | Best Quality |  On-time Delivery ]**
 - [ App architecture | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
@@ -13,9 +13,6 @@
 </div>
 ##
 
-<p align="center">
-  <img align="center" src="https://github.com/smartfox1203/smartfox1203/blob/main/landscape.jpg?raw=true" style = "width: -webkit-fill-available;"/>
-</p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -67,23 +64,23 @@ Have worked in all phases of the project life cycle, using a wide variety of too
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/electron-67-1175035.png" width="100"></td>
   </tr>
 </table>
-## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
+### 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <img align="right" alt="GIF" src="https://github.com/Eujinstepan/Eujinstepan/blob/Temle/code.gif?raw=true" width="400" />
  
-### DApps & Online Betting Website
+## DApps & Online Betting Website
 <br />
 
-### Smart Contract & Crypto
+## Smart Contract & Crypto
 <br />
 
-### Crypto Trading Platforms & Bots
+## Crypto Trading Platforms & Bots
 <br />
 
-### AR & VR Web and Mobile application
+## AR & VR Web and Mobile application
 <br />
 
-### Video Conference Web & Mobile application
+## Video Conference Web & Mobile application
 <br />
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
