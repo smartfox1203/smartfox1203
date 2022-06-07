@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Who%20am%20I;Creative,%20Passionate%20Efficient;Senior%20Frontend%20Engineer;8+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
-Waht Provide I Do?
-- [ Perfect result | Best Quality |  On-time Delivery ]
-- [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
+<h3> Waht Provide I Do? <h3>  
+  - [ Perfect result | Best Quality |  On-time Delivery ]
+  - [ App architecture | Clean & Efficent code | Full documentation | Continuous integration | Task prioritization | Automatic deployment ]
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=smartfox1203&column=7&theme=onedark" />
