@@ -1,3 +1,6 @@
+<h2>I am an expert in 
+  <span class="txt-rotate" data-period="2000" data-rotate="[ &quot;React&quot;, &quot;Vue&quot;, &quot;Node&quot;, &quot;PHP&quot; ]"><span class="wrap">PHP</span></span>
+</h2>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 <p align="center">
